@@ -6,7 +6,7 @@ public class Confi {
 	public  static String WebdriverForEdge="webdriver.edge.driver";
 	
 	
-	public static String driverpathChrome="C:\\Users\\BusinessComputers.in\\eclipse-workspaceSADA\\HealthCareDomainProject\\src\\main\\resources\\Driver\\chromedriver.exe";
+	public static String driverpathChrome="D:\\diff browser\\Chrome\\New folder\\chromedriver_win32 (1)\\chromedriver.exe";
     public static String driverpathEdge ="C:\\Users\\BusinessComputers.in\\eclipse-workspaceSADA\\HealthCareDomainProject\\src\\main\\resources\\Driver\\msedgedriver.exe";
     
     public static String UrlKite="https://kite.zerodha.com";
